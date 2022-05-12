@@ -1,0 +1,9 @@
+Id	gender	Math	English	Physics
+0001	male	80	64	78
+0002	female	65	87	58
+0003	female	44	71	77
+0004	female	66	71	91
+0005	female	70	71	100
+0006	male	72	77	72
+0007	female	73	81	75
+0008	female	69	77	75
