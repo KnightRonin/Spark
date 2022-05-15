@@ -17,5 +17,5 @@ object FileSort {
     })
     result.saveAsTextFile("hdfs://LianTian:9000/saveAsTextFile/FileSort")
   }
-
+// 测试
 }
